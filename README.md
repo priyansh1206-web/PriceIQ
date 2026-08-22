@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/ML-Regression%20%7C%20Demand%20Modeling-6C63FF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/status-active-00C2A8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-MIT-lightgrey?style=for-the-badge" />
-</p>
 
 # 💰 PriceIQ — Dynamic Pricing Optimization for E-commerce Products
 
@@ -122,10 +117,3 @@ PriceIQ/
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License** — see [LICENSE](LICENSE) for details.
-
----
-
-<p align="center">Made with ❤️ and a lot of price simulations</p>
