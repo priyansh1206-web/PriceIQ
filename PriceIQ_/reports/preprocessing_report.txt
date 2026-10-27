@@ -1,0 +1,24 @@
+PREPROCESSING REPORT
+====================
+Input rows: 5415
+Duplicate rows removed: 15
+Missing values before imputation: 93
+Rows removed by IQR outlier detection: 1509
+
+Outlier counts detected per numeric column:
+current_price: 271
+competitor_price: 267
+historical_sales_quantity: 162
+discount_percentage: 876
+inventory_level: 21
+product_rating: 1
+promotion_flag: 0
+revenue: 614
+
+Cleaned dataset rows: 3891
+Cleaned dataset columns: 13
+Encoded/scaled dataset rows: 3891
+Encoded/scaled dataset columns: 77
+
+Methods: duplicate removal, missing-value imputation, negative-price correction,
+IQR outlier detection/removal, one-hot encoding, and StandardScaler standardization.

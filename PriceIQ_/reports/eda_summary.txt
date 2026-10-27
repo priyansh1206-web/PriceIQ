@@ -1,0 +1,14 @@
+EDA SUMMARY
+===========
+Rows analyzed: 3,891 | Products: 58 | Categories: 6
+Correlation(current_price, sales_quantity): -0.209 (confirms negative price elasticity)
+Promotion uplift on avg sales quantity: 12.7%
+
+Category performance summary:
+product_category  avg_price  avg_revenue  avg_demand  avg_rating
+          Beauty      43.92   1817650.55      113.85        3.59
+           Books      23.75   2738040.74      129.49        4.04
+        Clothing      68.48   7589177.78      136.97        3.98
+     Electronics     236.53   7362997.83      104.55        3.91
+  Home & Kitchen     171.92  15389137.46      123.27        3.85
+          Sports      83.58   5736514.12      115.88        3.92
