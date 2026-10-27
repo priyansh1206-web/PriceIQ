@@ -1,20 +1,3 @@
-"""
-eda_visualization.py
----------------------
-Stage: Exploratory Data Analysis (EDA)
-
-Generates the visualizations required by the project spec (section 12.6):
-  - Historical price vs sales quantity scatter plot
-  - Demand trend over time
-  - Revenue trend over time
-  - Competitor price comparison
-  - Price elasticity curve (per category)
-  - Product category-wise pricing performance dashboard (summary grid)
-
-All figures are saved to reports/figures/. A short text summary of key
-insights is printed to the console and saved to reports/eda_summary.txt.
-"""
-
 import numpy as np
 import pandas as pd
 import matplotlib
