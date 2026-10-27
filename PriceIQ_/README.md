@@ -1,4 +1,3 @@
-# PriceIQ — EDA and Data Preprocessing
 
 This repository contains only the project stages requested for submission:
 1. Exploratory Data Analysis (EDA)
@@ -72,7 +71,3 @@ This creates graphs in `reports/figures/` and the summary in `reports/eda_summar
 - StandardScaler standardization of numeric columns
 
 `cleaned_pricing_data.csv` is kept readable for EDA. `encoded_scaled_data.csv` is the encoded and standardized version created for the preprocessing requirement.
-
-## GitHub submission
-
-Upload the folder contents to your repository and set repository visibility to **Public** as required by the submission instructions.
