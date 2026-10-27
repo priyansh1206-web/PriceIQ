@@ -3,7 +3,6 @@ This repository contains only the project stages requested for submission:
 1. Exploratory Data Analysis (EDA)
 2. Data preprocessing: missing values, encoding, standardization/scaling, and outlier detection/removal.
 
-The raw dataset is the same dataset supplied in the original project ZIP. No model training, model evaluation, price optimization, or dashboard files are included.
 
 ## Folder structure
 
